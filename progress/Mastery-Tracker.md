@@ -4,15 +4,15 @@ Use this file to track stable ability, not one-off performance.
 
 | Skill Area | Baseline | Current | Target | Evidence |
 | --- | --- | --- | --- | --- |
-| Task response | TBD | TBD | C2 | |
-| Organization and cohesion | TBD | TBD | C2 | |
-| Grammar accuracy | TBD | TBD | C2 | |
-| Grammar range | TBD | TBD | C2 | |
-| Vocabulary range | TBD | TBD | C2 | |
-| Vocabulary precision | TBD | TBD | C2 | |
-| Register and style | TBD | TBD | C2 | |
-| Editing independence | TBD | TBD | C2 | |
-| Writing fluency and stamina | TBD | TBD | C2 | |
+| Task response | B1 | B1 | C2 | Baseline diagnostic was clear but underdeveloped across all three tasks. |
+| Organization and cohesion | B1 | B1 | C2 | Meaning is followable, but ideas are compressed and not fully developed. |
+| Grammar accuracy | B1 | B1 | C2 | Frequent issues with articles, patterns, agreement, and verb forms in baseline diagnostic. |
+| Grammar range | B1+ | B1+ | C2 | Can express nontrivial ideas, but control is not yet stable. |
+| Vocabulary range | B1+ | B1+ | C2 | Functional range for work and abstract topics. |
+| Vocabulary precision | B1 | B1 | C2 | Several phrases are understandable but not natural. |
+| Register and style | B1 | B1 | C2 | Formal task did not yet show controlled formal tone. |
+| Editing independence | TBD | TBD | C2 | No revision evidence yet; baseline submitted as first draft. |
+| Writing fluency and stamina | B1 | B1 | C2 | Learner can write quickly, but baseline gives limited evidence for sustained development. |
 
 ## Update Rule
 

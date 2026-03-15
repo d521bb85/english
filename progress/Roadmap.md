@@ -2,48 +2,59 @@
 
 ## Status
 
-Pending baseline assessment
+Active
 
 ## Current Working Band
 
-Unassessed
+B1+
 
 ## Target Band
 
 C2 writing
 
-## Provisional Milestones
+## Next Milestone
 
-### Phase 0: Baseline And Habit Setup
+Stable B2 writing in short and medium-length practical tasks
 
-- complete interview and diagnostic
-- establish repository workflow
-- identify the first major writing bottlenecks
+## Current Focus Areas
 
-### Phase 1: Control And Consistency
+1. Sentence control in common patterns
+2. More natural vocabulary and phrasing
+3. Complete development of ideas in short paragraphs
+4. Register control for professional writing
 
-- improve sentence control
-- reduce high-frequency grammar errors
-- write clear paragraphs with a single purpose
+## Learner-Specific Roadmap
 
-### Phase 2: Extended Writing
+### Phase 1: Control And Completeness
 
-- write stronger multi-paragraph responses
-- support opinions with reasons and examples
-- improve cohesion and revision habits
+- reduce frequent grammar slips in everyday writing
+- produce complete short pieces instead of compressed responses
+- build a fast self-review habit
+- improve clarity in work-style messages and short explanations
 
-### Phase 3: Advanced Precision
+### Phase 2: Stronger B2 Performance
 
-- increase vocabulary precision
-- strengthen register control
-- write more flexible and natural arguments
+- write fuller paragraphs with clearer support and examples
+- maintain better tone control in formal and semi-formal writing
+- improve cohesion across longer responses
+- show more stable grammar under length pressure
 
-### Phase 4: C1-C2 Refinement
+### Phase 3: Toward C1
+
+- handle complex topics with stronger organization
+- improve precision, nuance, and flexibility
+- revise drafts more independently
+- sound more natural in public-facing and analytical writing
+
+### Phase 4: C1 To C2 Refinement
 
 - develop nuance, voice, and stylistic control
 - sustain quality in longer pieces
 - self-edit with greater independence
 
-## Personalization Rule
+## 2 To 4 Week Plan
 
-Replace this provisional roadmap with a learner-specific version after the baseline assessment.
+- 2 short writing tasks per week
+- every task includes one self-review pass
+- prioritize practical writing first, then broader argument writing
+- reassess level after several complete submissions, not after one draft

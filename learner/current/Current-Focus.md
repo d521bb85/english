@@ -2,18 +2,25 @@
 
 ## Phase
 
-Baseline intake
+Phase 1: Control And Completeness
 
 ## Status
 
-Framework is ready. Assessment has not been completed yet.
+Baseline assessment completed on 2026-03-15.
+
+Working level: `B1+` with lower confidence on extended writing.
 
 ## Your Next Action
 
-1. Complete [learner/submissions/00-Initial-Interview-Answers.md](../submissions/00-Initial-Interview-Answers.md).
-2. Complete [learner/submissions/00-Baseline-Writing-Diagnostic-Response.md](../submissions/00-Baseline-Writing-Diagnostic-Response.md).
-3. Tell Codex: `Assess me using the intake files in learner/submissions/`.
+Complete [Assignment 01](../assignments/2026-03-15-assignment-01-professional-clarity.md).
+
+## Current Priorities
+
+- cleaner sentence control
+- more natural phrasing
+- fuller development of ideas
+- better control of professional register
 
 ## Coach Rule
 
-Until the intake is complete, do not move the learner into normal assignments.
+Do not raise difficulty until the learner shows more stable control in short practical writing.
